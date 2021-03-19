@@ -6,7 +6,7 @@ coreschema==0.0.4
 Django==2.0.7
 django-cors-headers==2.4.0
 django-oauth-toolkit==1.2.0
-djangorestframework==3.8.2
+djangorestframework==3.11.2
 idna==2.7
 isort==4.3.4
 itypes==1.1.0
